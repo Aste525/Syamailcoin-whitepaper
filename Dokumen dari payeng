@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.1">
+    <title>Syamailcoin - The Magicable of Dominances</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', 'Questrial', serif;
+            background-color: #f0f0f0;
+            color: #333;
+            line-height: 1.4;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            overflow: hidden;
+            padding: 15px;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #1a1a1a;
+        }
+        h1 { font-size: 24px; }
+        h2 { font-size: 20px; }
+        .subtitle {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 18px;
+            margin-top: -10px;
+        }
+        .email {
+            text-align: center;
+            color: #2c3e50;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        .page {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .page-number {
+            text-align: right;
+            font-style: italic;
+            color: #7f8c8d;
+            font-size: 12px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 15px;
+            font-size: 12px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 6px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Syamailcoin</h1>
+        <p class="subtitle">"The Magicable of Dominances"</p>
+        <p class="email">aste53347@gmail.com</p>
+
+        <div class="page" id="page1">
+            <h2>Pattern</h2>
+            <p>Syamail, signifying Demeanor or Character, forms the essence of Syamailcoin. This revolutionary cryptocurrency draws inspiration from various mathematical and philosophical works throughout history. These influential ideas, bridging ancient wisdom with modern logic, provide the foundational pattern for Syamailcoin's innovative approach.</p>
+            <p>The Syamailcoin logo, the Dagger of Mathematics, pays homage to ancient Roman practices of marking significant documents. This dagger, pointing downwards and encircled by mathematical symbols, bears the number 941 - a key to understanding Syamailcoin's underlying principles.</p>
+            <div class="page-number">Page 1</div>
+        </div>
+
+        <div class="page" id="page2">
+            <h2>Max Supply and Mechanism</h2>
+            <p>Syamailcoin's max supply is set at 9,470,000. The system employs a Sleep Time Proof of Elapsed Time of 1.9 seconds, with nodes randomly selected from 0 to 941,000. This mechanism ensures fairness and efficiency in transaction processing.</p>
+            <p>The Magic Number 941 is derived from a combination of significant numbers in mathematics and cultural symbolism. It represents a unique value that embodies both mathematical precision and cultural significance, reflecting the holistic approach of Syamailcoin.</p>
+            <div class="page-number">Page 2</div>
+        </div>
+
+        <div class="page" id="page3">
+            <h2>What is Magic Number and why Syamailcoin?</h2>
+            <p>The Magic Number 941 is the cornerstone of Syamailcoin's ^S formula. It represents a synthesis of various mathematical and philosophical concepts.</p>
+            <p>We can define 941 as a unique number in our system:</p>
+            <p>∃x(x = 941 ∧ ∀y(y ≠ x → y ≠ 941)) †</p>
+            <p>This logical statement, marked with the Dagger of Maths (†), asserts the unique existence of 941 as our Magic Number.</p>
+            <p>Why Syamailcoin? It addresses three critical issues through logical reasoning:</p>
+            <ol>
+                <li>Inflation: Controlled by the ^S formula</li>
+                <li>Centralization: Mitigated through distributed node selection</li>
+                <li>Market Manipulation: Reduced by transparent, logical mechanisms</li>
+            </ol>
+            <div class="page-number">Page 3</div>
+        </div>
+
+        <div class="page" id="page4">
+            <h2>^S is Main Control and Use Cases</h2>
+            <p>The ^S formula serves as the main control mechanism for Syamailcoin. Here, ^ symbolizes exponentiation, and S represents the system's state. The Dagger of Maths (†) is used to denote significant mathematical formulas.</p>
+            <p>1. Supply Control:</p>
+            <p>S(x) = 9,470,000 * (1 - (x / 941)^2) †</p>
+            <p>Where x is the current block number. This quadratic decrease ensures a controlled, predictable supply reduction.</p>
+            <p>2. Mining Difficulty:</p>
+            <p>D(x) = BaseDifficulty * (1 + (x / 941)^3) †</p>
+            <p>The cubic increase in difficulty with network growth ensures long-term security and fair distribution.</p>
+            <p>These formulas, marked with the Dagger of Maths (†), embody the principle of balancing different aspects of the system to achieve harmony and stability.</p>
+            <div class="page-number">Page 4</div>
+        </div>
+
+        <div class="page" id="page5">
+            <h2>This Comparative and just Comparative</h2>
+            <table>
+                <tr>
+                    <th></th>
+                    <th>Centralization</th>
+                    <th>Dependency</th>
+                    <th>Security</th>
+                    <th>Impact</th>
+                </tr>
+                <tr>
+                    <td>Syamailcoin</td>
+                    <td>Decentralized</td>
+                    <td>^S Formula †</td>
+                    <td>High (Adaptive)</td>
+                    <td>Literacy & Exploration</td>
+                </tr>
+                <tr>
+                    <td>Bitcoin</td>
+                    <td>Decentralized</td>
+                    <td>Mining Hardware</td>
+                    <td>High (PoW)</td>
+                    <td>Store of Value</td>
+                </tr>
+                <tr>
+                    <td>Standard Gold</td>
+                    <td>Centralized</td>
+                    <td>Physical Storage</td>
+                    <td>Medium</td>
+                    <td>Hedge Against Inflation</td>
+                </tr>
+                <tr>
+                    <td>Fiat</td>
+                    <td>Highly Centralized</td>
+                    <td>Government Policy</td>
+                    <td>Low</td>
+                    <td>Economic Control</td>
+                </tr>
+                <tr>
+                    <td>Other Cryptos</td>
+                    <td>Varies</td>
+                    <td>Varies</td>
+                    <td>Varies</td>
+                    <td>Innovation in Finance</td>
+                </tr>
+            </table>
+            <p>This comparative analysis breaks down each currency into its fundamental properties for objective comparison. Note the use of the Dagger of Maths (†) for Syamailcoin's unique ^S Formula.</p>
+            <div class="page-number">Page 5</div>
+        </div>
+
+        <div class="page" id="page6">
+            <h2>When all you get or have money (Fiat) Is a fake</h2>
+            <p>From 1750 to 1969, societal attempts to eradicate poverty, like The Great Society, were implemented. However, the Federal Reserve's changing paradigms significantly impacted these efforts. The United States, a collection of diverse populations rather than a homogeneous nation, presents a unique case study in monetary policy.</p>
+            <p>The dominance of the U.S. dollar as a global benchmark can be expressed logically as:</p>
+            <p>∀x(Currency(x) → (Benchmark(x) ↔ x = USD)) †</p>
+            <p>This universal quantification, marked with the Dagger of Maths (†), suggests that for all currencies, being a benchmark is equivalent to being the USD, a simplification that Syamailcoin challenges.</p>
+            <p>The evolution of economic power raises questions about the intrinsic value of contributions in the current fiat system. The trend of de-dollarization can be seen as a logical negation of the above statement, seeking to break the equivalence between 'benchmark' and 'USD'.</p>
+            <p>The Federal Reserve's role, while crucial, introduces centralization that contrasts with Syamailcoin's decentralized approach. This is not to assign blame, but to recognize the systemic issues that cryptocurrencies aim to address.</p>
+            <div class="page-number">Page 6</div>
+        </div>
+
+        <div class="page" id="page7">
+            <h2>Means of Expressist Philosophia</h2>
+            <p>Syamailcoin transcends traditional cryptocurrency definitions. It embodies a philosophy of continuous learning and adaptation, reflected in its mathematical foundations. The Dagger of Maths (†) is used to denote key mathematical expressions.</p>
+            <p>The ^S formula in action, demonstrating the principle of solving equations through transposition and cancellation:</p>
+            <p>1. S = 941: ^S = 941 † (System at full capacity)</p>
+            <p>2. S = 900: Supply ≈ 9,470,000 * (1 - (900/941)^2) ≈ 447,861 †</p>
+            <p>3. S = 44: Supply ≈ 9,470,000 * (1 - (44/941)^2) ≈ 9,422,139 †</p>
+            <p>4. S = 10: Supply ≈ 9,470,000 * (1 - (10/941)^2) ≈ 9,469,775 †</p>
+            <p>5. Max Supply: 9,470,000 (when S = 0) †</p>
+            <p>6. Random nodes 0 to 941,000: Ensures fair distribution and security</p>
+            <p>7. If remaining supply is 1: S ≈ √(1 - 1/9,470,000) * 941 ≈ 940.9999 †</p>
+            <p>The dual address system, splitting 50% of the supply, introduces a balance, preventing paradoxes in the system's economics.</p>
+            <h3>References</h3>
+            <ul>
+                <li><a href="https://www.dicoding.com/blog/al-khawarizmi/">https://www.dicoding.com/blog/al-khawarizmi/</a></li>
+                <li><a href="https://plato.stanford.edu/entries/principia-mathematica/">https://plato.stanford.edu/entries/principia-mathematica/</a></li>
+            </ul>
+            <div class="page-number">Page 7</div>
+        </div>
+    </div>
+</body>
+</html>
